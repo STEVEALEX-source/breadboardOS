@@ -43,5 +43,5 @@ and serve the folder (live server, `python -m http.server`, whatever).
 - state (files, tasks, snake high score, bug mood, accent) is all localStorage
 - sounds are tiny square-wave beeps, can turn them off in Setup
 - works fine offline once the fonts are cached (or just ignore the google fonts link)
-
+- used AI to fix some bugs
 built for fun. not a real OS.
